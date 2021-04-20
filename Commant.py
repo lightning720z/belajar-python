@@ -1,4 +1,4 @@
-# ini adalah commant #
+# ini adalah commant
 
-# Contoh:
-print("# Hello python")
+#Contoh:
+# Hello python
