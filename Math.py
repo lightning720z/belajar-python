@@ -1,0 +1,8 @@
+# Tambah (+)
+print(1 + 2)
+# Kurang (-)
+print(2 - 1)
+# kali (*)
+print(10 * 5)
+# bagi (/)
+print(6 / 2)
